@@ -1,5 +1,7 @@
 access.log
 *.log
+temp/
 
 
 
+*.loggg
